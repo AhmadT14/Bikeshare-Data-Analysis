@@ -17,7 +17,7 @@ This project involved analyzing bikeshare data from **Chicago, New York City, an
    - User demographics (user type, gender, birth year).  
 
 ## **Screenshot 🖼️**
-![image](https://github.com/user-attachments/assets/070e3d46-c1fa-40e1-913a-3a61627a7c10)
+![Screenshot 2025-03-30 085403](https://github.com/user-attachments/assets/11ef025c-b152-49ca-b3a5-39e00ecaecaf)
 
 ## **Technologies Used 🛠️**
 - **Python (Pandas, NumPy)**   
