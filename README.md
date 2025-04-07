@@ -16,7 +16,7 @@ This project involved analyzing bikeshare data from **Chicago, New York City, an
    - Total and average trip durations.  
    - User demographics (user type, gender, birth year).  
 
-## **Screenshot 🖼️**
+## **Udacity Project Completion 🖼️**
 ![Screenshot 2025-03-30 085403](https://github.com/user-attachments/assets/11ef025c-b152-49ca-b3a5-39e00ecaecaf)
 
 ## **Technologies Used 🛠️**
