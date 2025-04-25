@@ -1,6 +1,6 @@
 # **Bikeshare Data Analysis 🚲📊**
 
-As part of **Udacity's Data Science program**, I explored **US Bikeshare Data** to analyze trends in bike usage across major cities. This project enhanced my **Python, SQL, and data visualization** skills by working with real-world datasets.
+As part of **Udacity's Data Science program**, I explored **US Bikeshare Data** to analyze trends in bike usage across major cities. This project enhanced my **Python** skills by working with real-world datasets.
 
 ## **Project Overview 📚**
 This project involved analyzing bikeshare data from **Chicago, New York City, and Washington** to uncover patterns in ridership. The main objectives included:
